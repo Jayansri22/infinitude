@@ -1,0 +1,1 @@
+In this tutorial, we will learn how to swap two variables in a Python program. Suppose we have two variables, P and Q; We have to write a Python program for swapping their values. We will also discuss the different methods in Python for doing this task.

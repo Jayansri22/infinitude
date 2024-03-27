@@ -1,0 +1,36 @@
+def factorial(n):
+    if n==0:
+        return 1
+    else:
+        return n*factorial(n-1)
+num=5
+print("Factorial of n",factorial(num))
+
+
+def fibonacci():
+    a,b=0,1
+    while True:
+        yield a
+        a,b=b,a+b
+
+
+def greet(name):
+    print("Hello" + name)
+
+greet(" Jayasree ")
+
+def add(x,y):
+    return x+y
+def min_max(numbers):
+    return min(numbers),max(numbers)
+numbers =[5,2,8,1,9]
+min_num,max_num=min_max(numbers)
+print("Min:",min_num)
+print("Max:",max_num)
+
+string reverse:a=input("enter name:")
+print(a[::-1])
+ef reverse_fun(x):
+    return x[::-1]
+n=reverse_fun("kavya")
+print(n)

@@ -1,0 +1,143 @@
+(1)A Linear Model Based on Principal Component Analysis for Disease Prediction
+ Date of Publication: 30 July 2019
+Link:https://ieeexplore.ieee.org/abstract/document/8781773
+Electronic ISSN: 2169-3536
+DOI: 10.1109/ACCESS.2019.2931956
+
+(2)Classification of Pima Indian Diabetes Dataset using Ensemble of Decision Tree, Logistic Regression and Neural Network
+Date Of Publication: 7 July 2020
+Link:https://d1wqtxts1xzle7.cloudfront.net/85230392/IJARCCE.2020.9701-libre.pdf?1651329598=&response-content-disposition=inline%3B+filename%3DClassification_of_Pima_Indian_Diabetes_D.pdf&Expires=1681541420&Signature=cdc9PoJyJZIwDQSDMxUWKs5hdt0i9A9Fj2G0uUQ65NadYFdRv4XMXXLA0Z3ZFxLhULOuwXInp-9nqDJfCALkDDTHHmH1K6hNwZTJiMqzgEVm9~nNtRW3aRHwKj0DPZ6gsCH2iorc8gE2I7-~3N9Bx~YPISYQWP6b845Cvw7c76HMiIFHS-k6BZAvU2lSrljK4vC3sFP2RstfTq-G81wvxgn0iACIjhaU0IN3p-57fxK9ICV1UXBtPYD1sU0OWUI1E-xuPkAsV3gDlTbXqsWqS74j05if3HuMdc7Tx1Ure7EkUJxYPQcCboZAhr7uGPWEohJPyP7AWGRCbelBs0HiFw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+Electronic ISSN: 2278-1021
+DOI 10.17148/IJARCCE.2020.9701 
+
+(3) A comparison of machine learning algorithms for diabetes prediction
+Date Of Publication:December 2021
+Link: https://www.sciencedirect.com/science/article/pii/S2405959521000205
+Electronic ISSN:2405-9595
+DOI:https://doi.org/10.1016/j.icte.2021.02.004
+
+
+(4)Development of New Hybrid Admission Decision Prediction Models Using Support Vector Machines Combined with Feature Selection
+Date Of Publication: 1 October 2017
+Link:https://pdfs.semanticscholar.org/c33d/b49f5ca535a498c9c18451135c0bedbc4f22.pdf
+Electronic ISSN:2421-8030
+doi: 10.18844/gjhss.v3i3.1502.
+
+
+
+(5) "Comparison of Naïve Bayes and Random Forest Methods for Diabetes Prediction," 
+Date Of Publication: 26 March 2021
+Link: https://d1wqtxts1xzle7.cloudfront.net/89509000/hasanah-2021-ijca-921184-libre.pdf?1660283802=&response-content-disposition=inline%3B+filename%3DComparison_of_Naive_Bayes_and_Random_For.pdf&Expires=1681542567&Signature=LvcsIkr1f657-265slxKPlPp5pKjRsi-qPl1pnm2zGdtq5g6JgT8ejqxZzKjXKOSpKuksVY28OYRsM~78eAfU4fEmT0lEm~3P06Bn1nbdr16hrlbEBkHhzDMvCK0jEb3QdK~qJz8AkYT35FJRnvRyC5b5VsKw7S5GvPsOo3yQyOOA3x6Jnva1lGozQOqf~~5CXSULZzpJJ~FsLfVAnAUPJCtSzAvMRyR7Skrs9B8FM5gD9ovgq4QrB0UBnzDjkRxYu8xHZvm-NORDgSaQAczmarOVVC129w9IkyeywuLm5SLRN1TgOKSR9xw5Q1DiBBZtkxCKuV8ZvHhQmgfNk-TKg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+Electronic ISSN: 0975 – 8887
+ DOI: 10.5120/ijca2021921184.
+
+
+(6) "Deep Learning Approaches for Detecting Diabetic Retinopathy using CNN Model
+Date Of Publication:07 February 2023
+Link: https://ieeexplore.ieee.org/abstract/document/10029234
+DOI: 10.1109/ICACRS55517.2022.10029234
+electronic Isbn:Electronic ISBN:978-1-6654-6084-2
+
+
+(7)  "PREDICTION OF DIABETES EMPOWERED WITH FUSED ML
+Date of Publication: 11 January 2022 
+Link: https://ieeexplore.ieee.org/abstract/document/9676634
+Electronic ISSN: 2169-3536
+DOI: 10.1109/ACCESS.2022.3142097
+
+(8)"A rule-based fuzzy ant colony improvement (ACI) approach for automated disease diagnoses
+Date OF Publication: 21 March 2023
+Link:https://link.springer.com/article/10.1007/s11042-023-15115-4
+Elctronic ISSN:
+DOI: https://doi.org/10.1007/s11042-023-15115-4
+
+(9) "Deep LSTM Model for Diabetes Prediction with Class Balancing by SMOTE
+Date Of Publicatioin: 31 August 2022
+Link: https://www.mdpi.com/2079-9292/11/17/2737
+Electronic ISSN:2079_9292
+DOI:10.3390 electronics 11172737
+
+(10) ML based diabetes prediction and development of smart web application
+Date Of Publication:7 December 2021
+Link: https://www.sciencedirect.com/science/article/pii/S2666307421000279
+Elecronic ISSN: 2666-3074
+DOI:10.1016/j.ijcce.2021.12.001.
+
+(11) Employing PCA and t-statistical approach for feature extraction and classification of emotion from multichannel EEG signal
+Date Of Publication:1 March 2020
+Link: https://www.sciencedirect.com/science/article/pii/S1110866519301720
+Electronic ISSN: 1110-8665
+DOI: 10.1016/j.eij.2019.10.002.
+
+(12) An improved multi-scale entropy algorithm in emotion EEG features extraction
+Publication date: 1 April 2017
+Link: https://www.ingentaconnect.com/contentone/asp/jmihi/2017/00000007/00000002/art00019
+Electronic ISSN:
+DOI: https://doi.org/10.1166/jmihi.2017.2031
+
+(13) Classification of diabetes mellitus using ML techniques
+Date Of Publication: December 2017
+Link: https://www.sciencedirect.com/science/article/abs/pii/S0169260717302821
+Electronic ISSN: 2278-3075
+DOI:https://doi.org/10.1016/j.cmpb.2017.09.004
+
+(14) Comparison of ML algorithms for prediction of diabetes
+Date Of Publication:December 2021
+Link: https://www.sciencedirect.com/science/article/pii/S2405959521000205
+Electronic ISSN:2405-9595
+DOI:https://doi.org/10.1016/j.icte.2021.02.004
+
+(15) Diabetes prediction using ML algorithms with feature selection and dimensionality reduction
+date of Publication: 03 June 2021
+Link: https://ieeexplore.ieee.org/abstract/document/9441935
+Electonics ISSN: 2575-7288
+DOI: 10.1109/ICACCS51430.2021.9441935
+
+(16) Improving the classification accuracy using recursive feature elimination with cross-validation
+
+Link: http://www.puneetmisra.com/admin/uploads/journals/5f136d202b8ba1.18644117.pdf
+Electronoic ISSN: 2249-3255
+A Deep Analysis of Textual Features Based Cyberbullying Detection Using Machine Learning
+
+(17) Accuracy improvement for diabetes disease classification: a case on a public medical datase
+Date Of Publication: 05 Nov 2018
+LINK:https://www.tandfonline.com/doi/abs/10.1016/j.fiae.2017.09.006
+Electronic ISSN:1616-8658
+DOI: https://doi.org/10.1016/j.fiae.2017.09.006 
+
+
+(18) Improving the accuracy of diabetes diagnosis applications through a hybrid feature selection algorithm
+Date  OF Publication: 27 march 2021
+Link:https://link.springer.com/article/10.1007/s11063-021-10491-0#article-info
+Electronic ISSN: 
+DOI: https://doi.org/10.1007/s11063-021-10491-0
+
+(21)  "Machine learning technique to prognosis diabetes disease: Random forest classifier approach,
+Date OF Publication:22 July 2021
+Link:https://link.springer.com/chapter/10.1007/978-981-16-2164-2_19
+Electronic ISBN:ISBN978-981-16-2164-2
+DOI: https://doi.org/10.1007/978-981-16-2164-2_19
+
+
+(23) A Deep Analysis of Textual Features Based Cyberbullying Detection Using Machine Learning
+Date Of Publication: 25 January 2023
+Link: https://ieeexplore.ieee.org/abstract/document/10019058
+Electronic ISBN: 979-8-3503-0984-3
+DOI:  10.1109/GCAIoT57150.2022.10019058
+
+(24) Intelligent phishing website detection using deep learning
+Date Of Publication: 7 June 2022
+Link: https://ieeexplore.ieee.org/abstract/document/9785003
+Electronic  ISSN: 2575-7288
+DOI: 10.1109/ICACCS54159.2022.9785003
+
+(25) Feature extended energy landscape model forinterpreting coercivity mechanism
+Date Of publication:
+Link: https://www.nature.com/articles/s42005-022-01054-3
+
+
+
+
+
+
+
